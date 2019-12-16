@@ -1,6 +1,6 @@
 # Office Fabric Icons
 
-This repository is maintained to allow the import of [Office Fabric Icons](https://uifabricicons.azurewebsites.net/) into the [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons). Since Microsoft dont provide the TTF and CSS file in an easy way.
+This repository is maintained to allow the import of [Office Fabric Icons](https://uifabricicons.azurewebsites.net/) into the [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons), because Microsoft doesn't provide the TTF and CSS files.
 
 ## Steps to update this repository 
 
