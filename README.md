@@ -4,7 +4,7 @@ This repository is maintained to allow the import of [Office Fabric Icons](https
 
 ## Steps to update this repository 
 
-1. Acess the `Office Fabric Icons` [website](https://uifabricicons.azurewebsites.net/), select all the available icons. (click on any icon and press `CTRL+A` or `CMD+A`)
+1. Acess the `Office Fabric Icons` [website](https://uifabricicons.azurewebsites.net/), select all the available icons. (click on any icon and press `CTRL+A` or `CMD+A` to select all)
 
 ![image](https://raw.githubusercontent.com/smarppy/fabric-icons/master/screenshots/Screen%20Shot%202019-07-05%20at%2015.12.05.png)
 
